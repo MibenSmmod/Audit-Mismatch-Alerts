@@ -1,3 +1,5 @@
+*** UPDATE:  This script is no longer needed.  Review XIQ 25r1 release notes on how to update offline devices. ***
+
 # XIQ Audit Mismatch Alerts
 ## Purpose
 ExtremeCloud IQ (XIQ) does not allow you to select offline devices and push an update as of June, 2024 thus this script was created.  It helps you keep your devices in sync with current configuration when offline devices appear online after you updated your site(s).  Script will only execute a Delta update if you, the XIQ user, chooses to add them to a specified Cloud Config Group (CCG).  There's a READ-ONLY feature built-in (on by default) so it will only output the CSV and print to screen.
