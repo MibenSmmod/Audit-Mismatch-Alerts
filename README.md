@@ -1,4 +1,4 @@
-*** UPDATE:  This script is no longer needed.  Review XIQ 25r1 release notes on how to update offline devices. ***
+# **UPDATE:  This script is no longer needed.  Review XIQ 25r1 (Jan. 2025) release notes on how to update offline devices.**
 
 # XIQ Audit Mismatch Alerts
 ## Purpose
